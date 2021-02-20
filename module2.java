@@ -1,5 +1,5 @@
 Hi Devops
-AWS Terraform adding
+AWS resolving
 Terraform
 GIT
 JENKINS
